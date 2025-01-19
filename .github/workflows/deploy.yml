@@ -11,7 +11,7 @@ jobs:
         env:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
-          TOKEN: ${{ secrets.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 }}
+          TOKEN: ${{ secrets.BETH_TOKEN }}
           # BUILD_ONLY: true
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -24,5 +24,5 @@ jobs:
         env:
           PAGES_BRANCH: master
           BUILD_DIR: .
-          TOKEN: ${{ secrets.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 }}
+          TOKEN: ${{ secrets.BETH_TOKEN }}
           REPOSITORY: beth/2pk.github.io
