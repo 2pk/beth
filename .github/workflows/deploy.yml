@@ -25,4 +25,4 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.BETH_REPO_TOKEN }}
-          REPOSITORY: 2pk/2pk.github.io
+          REPOSITORY: beth/2pk.github.io
