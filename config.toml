@@ -1,7 +1,7 @@
-base_url = "https://2pk.github.io/bloga"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://2pk.github.io/beth"
+title = "Beta Thoughts"
+description = "*Pankaj* helps companies make cloud platforms with managed services to get them faster to market and delight their developers"
+author = "Pankaj Kumar"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
