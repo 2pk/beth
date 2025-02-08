@@ -1,6 +1,6 @@
 base_url = "https://2pk.github.io/beth"
 title = "Beta Thoughts"
-description = "*Pankaj* helps companies make cloud platforms with managed services to get them faster to market and delight their developers"
+description = "Pankaj helps companies make cloud platforms with managed services to get them faster to market and delight their developers"
 author = "Pankaj Kumar"
 theme = "tabi"
 generate_feeds = true
